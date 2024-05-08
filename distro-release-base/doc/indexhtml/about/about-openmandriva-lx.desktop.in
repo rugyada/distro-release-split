@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Info and Resources
+_Comment=OpenMandriva Info and Resources
+Icon=openmandriva
+Exec=about-openmandriva-lx
+Type=Application
+Categories=Documentation;System;
+Terminal=false
+NoDisplay=true
